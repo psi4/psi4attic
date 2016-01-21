@@ -1,2 +1,3 @@
 # psi4attic
-a museum of psi modules
+A museum of psi modules throughout the ages.
+
